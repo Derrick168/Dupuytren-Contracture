@@ -1,2 +1,2 @@
-# Dupuytren Contracture Research Paper
+# Dupuytren Contracture Research Project
 Digitized 3D scanning/printing for unmatched-precision in novel radiation therapy 2 for early-stage Dupuytren’s disease
